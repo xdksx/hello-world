@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T10:39:09.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="YGtxm3LrFcEWOLI4i9I_" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T10:39:48.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PJg12v7NdOApU2_871Qq" version="14.4.3" type="github">
   <diagram id="-bP3XhjUXyilaQhWAgKb" name="Page-1">
     <mxGraphModel dx="1185" dy="588" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -206,6 +206,28 @@
         </mxCell>
         <mxCell id="INrCNFCCM0VXCptv-kLN-27" value="cache" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="INrCNFCCM0VXCptv-kLN-38">
           <mxGeometry x="84" y="18" width="48" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="INrCNFCCM0VXCptv-kLN-40" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="INrCNFCCM0VXCptv-kLN-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="498" y="461" as="sourcePoint" />
+            <mxPoint x="336" y="621" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INrCNFCCM0VXCptv-kLN-42" value="9 更新时间戳" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="INrCNFCCM0VXCptv-kLN-40">
+          <mxGeometry x="0.301" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INrCNFCCM0VXCptv-kLN-41" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="INrCNFCCM0VXCptv-kLN-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="653.0811166223468" y="469.0907577080211" as="sourcePoint" />
+            <mxPoint x="339" y="624" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INrCNFCCM0VXCptv-kLN-43" value="9 更新时间戳" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="INrCNFCCM0VXCptv-kLN-41">
+          <mxGeometry x="0.1326" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
